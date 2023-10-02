@@ -1,2 +1,5 @@
 #!/bin/bash
-echo 'Best School$' > '*\\'"Best School"'\\*$?*****:)'
+touch '*\\'"Best School"'\\*$?*****:)'
+text="Best School"
+echo -e "$text\n" >> '*\\'"Best School"'\\*$?*****:)'
+echo "File '*\\'"Best School"'\\*$?*****:)' has been created with the text 'Best School' ending with a new line."
