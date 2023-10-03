@@ -1,0 +1,2 @@
+#!/bin/bash
+export global_var="This is a global variable"

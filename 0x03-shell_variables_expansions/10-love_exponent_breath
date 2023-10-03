@@ -1,0 +1,5 @@
+#!/bin/bash
+BREATH=$3
+LOVE=$4
+echo "$BREATH ^ $LOVE"
+echo $(($BREATH ** $LOVE))

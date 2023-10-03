@@ -1,0 +1,4 @@
+#!/bin/bash
+true_knowledge=128
+echo "128 + $true_knowledge"
+echo $((128 + $true_knowledge))
