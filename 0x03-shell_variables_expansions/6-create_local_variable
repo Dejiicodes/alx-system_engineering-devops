@@ -1,2 +1,2 @@
 #!/bin/bash
-local_var="This is a local variable"
+BEST="School"

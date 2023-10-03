@@ -1,3 +1,2 @@
 #!/bin/bash
-NUM=$6
-printf "%.2f\n" $NUM
+printf "%.2f\n" "$NUM"
